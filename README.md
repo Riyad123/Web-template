@@ -1,2 +1,0 @@
-# Web-template
-New webpage 
